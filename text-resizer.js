@@ -1,3 +1,5 @@
+// work in progress...
+
 var size;
 var desired_width = 50;
 var resizer = $("#hidden-resizer");
