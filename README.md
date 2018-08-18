@@ -1,6 +1,8 @@
 textResizerJS
 =============
 
+[![codacy](https://img.shields.io/codacy/grade/39b15326c37646b3b60c62d6cce01542.svg)](https://www.codacy.com/project/cope/textResizerJS/dashboard)
+
 <b>jQuery plugin to fit the text inside a fixed size DIV element</b>
 
 
