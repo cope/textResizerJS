@@ -9,12 +9,6 @@
  *
  */
 
-cope = {
-	TextResizer: {}
-};
-
-// work in progress...
-
 var size;
 var desiredWidth = 50;
 var resizer = $("#hidden-resizer");

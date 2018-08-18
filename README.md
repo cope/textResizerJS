@@ -13,4 +13,6 @@ Therefore, all credit goes to [sworoc](http://stackoverflow.com/users/239915/swo
 
 Usage:
 
-<i>work in progress...</i>
+	<div id="hidden-resizer" style="visibility: hidden"></div>
+
+	<script src="js/text-resizer.js"></script>
